@@ -1,0 +1,7 @@
+[24Jul2024 00:01:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Martonimen> zzzz
+[24Jul2024 00:04:18.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mixelanea lost connection: Timed out
+[24Jul2024 00:04:18.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mixelanea left the game
+[24Jul2024 00:04:18.929] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d9037dc8-5de2-3afa-8253-8f4279844af2
+[24Jul2024 00:07:50.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkcalvito was killed
+[24Jul2024 00:07:50.589] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Darkcalvito with unique ID travelersbackpack.standard_24.07.2024-00.07.50.dat
+[24Jul2024 00:07:50.589] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 250 Y: 64.0 Z: 5
